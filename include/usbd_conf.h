@@ -1,4 +1,3 @@
-/* USER CODE BEGIN Header */
 /**
   ******************************************************************************
   * @file           : usbd_conf.h
@@ -16,7 +15,6 @@
   *
   ******************************************************************************
   */
-/* USER CODE END Header */
 
 /* Define to prevent recursive inclusion -------------------------------------*/
 #ifndef __USBD_CONF__H__
@@ -34,9 +32,7 @@
 #include "stm32f1xx.h"
 #include "stm32f1xx_hal.h"
 
-/* USER CODE BEGIN INCLUDE */
 
-/* USER CODE END INCLUDE */
 
 /** @addtogroup USBD_OTG_DRIVER
   * @{
